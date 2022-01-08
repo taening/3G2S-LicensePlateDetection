@@ -28,7 +28,7 @@ Code is written in Visual Basic requires:
 
 ----------
 
-## 3. Limit ##
+## 3. Limit
 **1) Character Recognition Problem**
 ```
 It couldn't recognize character.
@@ -43,3 +43,8 @@ Recognition rate is about 70 to 80 %
 ```
 It's not suitable for real time. 
 ```
+
+----------
+
+## 4. Video
+[![Watch the video](https://img.youtube.com/vi/ikGXJtXI_yg/0.jpg)](https://www.youtube.com/watch?v=ikGXJtXI_yg)
