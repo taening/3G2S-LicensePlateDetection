@@ -2,7 +2,10 @@
 The purpose of this project is to detect license plate. <br/>
 This project was carried out in a Digital-Image-Processing lecture in the second semester of my third year. <br/>
 This lecture gave me the opportunity to implement a computer vision libraries.
-**(GrayScale, Threshold, GaussianBlur, Canny Edge, ... etc.)**
+**(GrayScale, Threshold, GaussianBlur, Canny Edge, ... etc.)** <br/>
+
+#### ⇩ Click Below Video ⇩
+[![Watch the video](https://img.youtube.com/vi/ikGXJtXI_yg/0.jpg)](https://www.youtube.com/watch?v=ikGXJtXI_yg) <br/>
 
 ## 1. Requirments
 Code is written in Visual Basic requires:
@@ -43,8 +46,3 @@ Recognition rate is about 70 to 80 %
 ```
 It's not suitable for real time. 
 ```
-
-----------
-
-## 4. Video
-[![Watch the video](https://img.youtube.com/vi/ikGXJtXI_yg/0.jpg)](https://www.youtube.com/watch?v=ikGXJtXI_yg)
